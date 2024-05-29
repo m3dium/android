@@ -17,7 +17,7 @@ Success
 - Để tải lên một file từ máy thật đến điện thoại ảo, gõ lệnh:
 `adb push </path/to/file/pc> </path/to/file/device`
 - Để tải một file từ điện thoại ảo xuống về máy thật, gõ lệnh:
-`adb pull </path/to/file/device>	</path/to/file/pc>`
+`adb pull </path/to/file/device> </path/to/file/pc>`
 
 **2. Task 2: Phân tích tĩnh**
 - Sử dụng MobSF
